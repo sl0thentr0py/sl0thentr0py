@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sl0thentr0py&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl0thentr0py&size_weight=0.9&count_weight=0.1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl0thentr0py&size_weight=0&count_weight=1&layout=compact)
